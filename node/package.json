@@ -1,4 +1,8 @@
 {
+  "name": "rename-files-yt1s",
+  "version": "1.0.0",
+  "description": "Removes tag('yt1s') from files downloaded from youtube download page.",
+  "bin": "rename_files.js",
   "dependencies": {
     "fs": "^0.0.1-security"
   }
