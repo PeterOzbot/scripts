@@ -19,5 +19,5 @@ Pack/install :
 
 npm pack
 
-npm install -g hello-world-1.0.0.tgz
+npm install -g rename-files-yt1s-1.0.0.tgz
 
