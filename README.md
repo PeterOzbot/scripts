@@ -15,9 +15,16 @@ package.json :
 
 The executable script i.e index.js should starts with a line "#!/usr/bin/env node"
 
-Pack/install :
+## If nvm installed + node 16.x.x
+
+### Pack/install :
+
+nvm use 16
 
 npm pack
 
 npm install -g rename-files-yt1s-1.0.0.tgz
 
+### Run 
+
+Auto-complete will work only if node is set to 16: nvm use 16. 
